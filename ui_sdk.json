@@ -2,8 +2,8 @@
   "version": 8,
   "$mapversion": 1,
 
-  "assetsDir": "E:\\R5Reloaded Stuff\\Repak\\assets-uisdk",
-  "outputDir": "E:\\R5Reloaded Stuff\\Repak\\build",
+  "assetsDir": "C:\\Users\\nxmbx\\Documents\\GitHub\\ui_sdk.rpak\\assets-uisdk",
+  "outputDir": "C:\\Users\\nxmbx\\Documents\\GitHub\\ui_sdk.rpak\\build",
   "name": "ui_sdk",
 
   "files": [
