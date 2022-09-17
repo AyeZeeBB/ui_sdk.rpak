@@ -18,3 +18,4 @@ bg - 3840,2160
 
 //Row 4
 mp_lobby - 0, 3240
+mp_rr_desertlands_64k_x_64k_tt - 1920,3240
