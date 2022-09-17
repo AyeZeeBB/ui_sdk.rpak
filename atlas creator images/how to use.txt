@@ -1,0 +1,5 @@
+1. Go into the folder containing the images you want to update
+2. ZIP the rui folder
+3. goto https://atlas.r5reloaded.com/ and click "Add ZIP"
+4. Make sure settings match this screenshot https://cdn.discordapp.com/attachments/896516445352124466/1020620772299001866/unknown.png
+5. Export

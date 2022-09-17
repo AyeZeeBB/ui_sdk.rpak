@@ -1,4 +1,0 @@
-//Row 1
-pilot_tactical_particle_wall - 0,0
-pilot_tactical_3dash - 128,0
-r5reloaded_badge - 256,0
