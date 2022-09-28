@@ -177,6 +177,13 @@
           "posY": 3240,
           "width": 1920,
           "height": 1080
+        },
+        {
+          "path": "rui/menu/maps/mp_rr_arena_skygarden",
+          "posX": 3840,
+          "posY": 3240,
+          "width": 1920,
+          "height": 1080
         }
       ]
     }
