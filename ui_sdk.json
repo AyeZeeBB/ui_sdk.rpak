@@ -20,6 +20,10 @@
       "path": "texture/ui_atlas/rui/weapon_icons/r5/weapon_icons"
     },
     {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/weapon_sentinel"
+    },
+    {
       "$type": "uimg",
       "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_icons",
       "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_icons",
@@ -42,6 +46,20 @@
           "path": "rui/weapon_icons/r5/weapon_car",
           "posX": 0,
           "posY": 320,
+          "width": 640,
+          "height": 320
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_sentinel",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_sentinel",
+      "textures": [
+        {
+          "path": "rui/weapon_icons/r5/weapon_sentinel",
+          "posX": 0,
+          "posY": 0,
           "width": 640,
           "height": 320
         }
