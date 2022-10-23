@@ -40,6 +40,10 @@
       "path": "texture/ui_atlas/rui/menu/characters/locked_portrait_loba"
     },
     {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/menu/characters/locked_portrait_revenant"
+    },
+    {
       "$type": "uimg",
       "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_icons",
       "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_icons",
@@ -74,6 +78,20 @@
       "textures": [
         {
           "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_loba",
+          "posX": 0,
+          "posY": 0,
+          "width": 640,
+          "height": 320
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/menu/characters/locked_portrait_revenant",
+      "atlas": "texture/ui_atlas/rui/menu/characters/locked_portrait_revenant",
+      "textures": [
+        {
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_revenant",
           "posX": 0,
           "posY": 0,
           "width": 640,
