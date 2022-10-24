@@ -25,6 +25,10 @@
     },
     {
       "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/weapon_smart_pistol"
+    },
+    {
+      "$type": "txtr",
       "path": "texture/ui_atlas/rui/weapon_icons/r5/weapon_volt_smg"
     },
     {
@@ -42,6 +46,136 @@
     {
       "$type": "txtr",
       "path": "texture/ui_atlas/rui/menu/characters/locked_portrait_revenant"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/menu/characters/locked_portrait_rampart"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_bracket"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_bracket_corner"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_bracket_corner_mirror"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_corner"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_lock_image"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_measure"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_skull"
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/smart_ammo_skull",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_skull",
+      "textures": [
+        {
+          "path": "rui/hud/smart_core/smart_ammo_skull",
+          "posX": 0,
+          "posY": 0,
+          "width": 64,
+          "height": 64
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/smart_ammo_bracket",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_bracket",
+      "textures": [
+        {
+          "path": "rui/hud/smart_core/smart_ammo_bracket",
+          "posX": 0,
+          "posY": 0,
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/smart_ammo_bracket_corner",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_bracket_corner",
+      "textures": [
+        {
+          "path": "rui/hud/smart_core/smart_ammo_bracket_corner",
+          "posX": 0,
+          "posY": 0,
+          "width": 256,
+          "height": 256
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/smart_ammo_bracket_corner_mirror",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_bracket_corner_mirror",
+      "textures": [
+        {
+          "path": "rui/hud/smart_core/smart_ammo_bracket_corner_mirror",
+          "posX": 0,
+          "posY": 0,
+          "width": 256,
+          "height": 256
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/smart_ammo_corner",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_corner",
+      "textures": [
+        {
+          "path": "rui/hud/crosshairs/smart_ammo_corner",
+          "posX": 0,
+          "posY": 0,
+          "width": 256,
+          "height": 256
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/smart_ammo_lock_image",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_lock_image",
+      "textures": [
+        {
+          "path": "rui/hud/smart_core/smart_ammo_lock_image",
+          "posX": 0,
+          "posY": 0,
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/smart_ammo_measure",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_measure",
+      "textures": [
+        {
+          "path": "rui/hud/smart_core/smart_ammo_measure",
+          "posX": 0,
+          "posY": 0,
+          "width": 512,
+          "height": 512
+        }
+      ]
     },
     {
       "$type": "uimg",
@@ -101,6 +235,20 @@
     },
     {
       "$type": "uimg",
+      "path": "ui_image_atlas/rui/menu/characters/locked_portrait_rampart",
+      "atlas": "texture/ui_atlas/rui/menu/characters/locked_portrait_rampart",
+      "textures": [
+        {
+          "path": "rui/menu/character_select/lockstep/locked_portraits/locked_portrait_rampart",
+          "posX": 0,
+          "posY": 0,
+          "width": 640,
+          "height": 320
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
       "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_sentinel",
       "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_sentinel",
       "textures": [
@@ -110,6 +258,20 @@
           "posY": 0,
           "width": 640,
           "height": 320
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/weapon_smart_pistol",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/weapon_smart_pistol",
+      "textures": [
+        {
+          "path": "rui/weapon_icons/r5/weapon_smart_pistol",
+          "posX": 0,
+          "posY": 0,
+          "width": 256,
+          "height": 128
         }
       ]
     },
