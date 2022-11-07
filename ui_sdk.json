@@ -53,6 +53,14 @@
     },
     {
       "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner_shadow"
+    },
+    {
+      "$type": "txtr",
       "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_bracket"
     },
     {
@@ -78,6 +86,52 @@
     {
       "$type": "txtr",
       "path": "texture/ui_atlas/rui/weapon_icons/r5/smart_ammo_skull"
+    },
+    {
+      "$type": "txtr",
+      "path": "texture/ui_atlas/rui/pilot_loadout/ordnance/satchel"
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/pilot_loadout/ordnance/satchel",
+      "atlas": "texture/ui_atlas/rui/pilot_loadout/ordnance/satchel",
+      "textures": [
+        {
+          "path": "rui/pilot_loadout/ordnance/satchel",
+          "width": 64,
+          "height": 67,
+          "posX": 0,
+          "posY": 0
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner",
+      "textures": [
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle_afterburner",
+          "posX": 0,
+          "posY": 0,
+          "width": 512,
+          "height": 512
+        }
+      ]
+    },
+    {
+      "$type": "uimg",
+      "path": "ui_image_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner_shadow",
+      "atlas": "texture/ui_atlas/rui/weapon_icons/r5/crosshair_triangle_afterburner_shadow",
+      "textures": [
+        {
+          "path": "rui/hud/crosshairs/crosshair_triangle_afterburner_shadow",
+          "posX": 0,
+          "posY": 0,
+          "width": 512,
+          "height": 512
+        }
+      ]
     },
     {
       "$type": "uimg",
